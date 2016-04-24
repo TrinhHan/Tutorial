@@ -1,0 +1,9 @@
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csprojResolveAssemblyReference.cache
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dangnhap.resources
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csproj.GenerateResource.Cache
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
